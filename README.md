@@ -47,5 +47,38 @@ I asked the following questions to understand what top skills required in the or
 
 ![skill_vs_salary](skill_vs_salary.png)
 
+## Insights
+- There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer   and Data Scientist.
+- Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
+
+## 2.What’s the salary for data jobs in different regions?
+
+![median_salary_compariosn](median_salary_comparison.png)
+
+## Insights 
+- Roles like cloud Engineer, ML Engineer, Software Engineer is having higher Median Salaries in US Compare to other Nations
+- The Median salary is quit high for senior level roles
+
+## 3.What are the top skills of data professionals?
+
+![Top Skills](top_skills.png)
+
+## Insights
+- SQL and Excel dominate as top skills in data-related jobs, reflecting their foundational role in data processing and analysis.
+
+## 4.What’s the pay for the top 10 skills?
+
+![pay_for_top_10](pay_for_top_10.png)
+ 
+- Higher median salaries are associated with skills like Python, Oracle, and SQL, suggesting their critical role in high-paying tech jobs.
+- Skills like PowerPoint and Word have the lowest median salaries and likelihood, indicating less specialization and demand in high-salary sectors.
+
+## Conclusion
+This charts highlights the importance of investing time in learning high-value skills like Python and SQL, which are evidently tied to higher paying roles, especially for those looking to maximize their salary in the tech industry.
+
+
+
+
+
 
 
