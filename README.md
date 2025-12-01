@@ -1,2 +1,4 @@
-# data-science-job-market-and-salary-Insights
-“Excel-based dashboard showing insights on job market , salary trends, skill trends using Power Query & Data Analysis”
+# Data Science Job Market and Salary Insights Dashboard
+---
+
+![Dashboard Snapshot](salary_dashboard_img.png)
